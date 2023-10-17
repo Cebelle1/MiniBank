@@ -16,8 +16,11 @@ Conventional piggy banks have typically been perceived as uninspiring, merely se
    
 ## Implementation
 I have used the PIC18 Microcontroller combined with an Arduino board for versatility to implement the project.
+
 PIC18 handles the LCD Screen, Numpad inputs and sensing of coin inputted (20cents, 50cents).
+
 Arduino handles the logic of coin dispensing, servo motor and dc motor controlls.
+
 
 ### Teamworks
 
