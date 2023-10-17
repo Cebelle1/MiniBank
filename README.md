@@ -2,6 +2,8 @@
 This project was for Microcontrollers Application (MAPP) I did back in poly.
 ![ezgif com-optimize](https://github.com/Cebelle1/MiniBank/assets/84433822/a1f43d63-730b-404b-926a-bf565f2735c3)
 
+(i lost the video for the final prototype, it was coloured and we settled a holder for the Numpad too :( )
+
 ## Project Objective
 We used the PIC18 microcontroller to come up with a fun bank to encourage kids to save.
 Conventional piggy banks have typically been perceived as uninspiring, merely serving as receptacles for children to deposit their spare change. Therefore, we aspire to cultivate a culture of financial prudence by designing an engaging piggy bank that transforms the act of saving into an interactive and enjoyable experience for children, rendering it akin to a dynamic toy rather than a conventional, unadorned coin repository.
