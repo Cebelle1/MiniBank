@@ -1,5 +1,6 @@
 # MiniBank
 This project was for Microcontrollers Application (MAPP) I did back in poly.
+![ezgif com-optimize](https://github.com/Cebelle1/MiniBank/assets/84433822/a1f43d63-730b-404b-926a-bf565f2735c3)
 
 ## Project Objective
 We used the PIC18 microcontroller to come up with a fun bank to encourage kids to save.
@@ -23,5 +24,5 @@ I handled the codes.
 ### MAPP Design Contest
 Our team was selected to participate in the MAPP Design contest and we won Merit Prize!
 
-![ezgif com-optimize](https://github.com/Cebelle1/MiniBank/assets/84433822/a1f43d63-730b-404b-926a-bf565f2735c3)
+
 
