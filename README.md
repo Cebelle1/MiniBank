@@ -23,21 +23,17 @@ Arduino handles the logic of coin dispensing, servo motor and dc motor controlls
 
 **Prototype:**
 As the prototype is hand-made by us using cardboards, we needed to refine the measurements:
-> Spinning wheel holes diameter to fit the coins
-> 
-> Angle of slopes for both the coin holder below the wheel and the one above where the coin rolls down
-> 
-> Attachment of sensors and rigidness so when in motion, does not bug out.
-> 
-> Diameter of each coin receiver
-> 
-> Servo Motor angles
->
-> Overall structure balance
+1) Spinning wheel holes diameter to fit the coins
+2) Angle of slopes for both the coin holder below the wheel and the one above where the coin rolls down
+3) Attachment of sensors and rigidness so when in motion, does not bug out.
+4) Diameter of each coin receiver
+5) Servo Motor angles
+6) Overall structure balance
 
 Although it looks abit sluggish, but a lot of time was put into it ;-;
 
 **Software:**
+
 Me.
 
 ### MAPP Design Contest
