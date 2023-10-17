@@ -20,8 +20,19 @@ PIC18 handles the LCD Screen, Numpad inputs and sensing of coin inputted (20cent
 Arduino handles the logic of coin dispensing, servo motor and dc motor controlls.
 
 ### Teamworks
-My teammates designed the cardbox prototypes.
-I handled the codes.
+
+**Prototype:**
+As the prototype is hand-made by us using cardboards, we needed to refine the measurements:
+> Spinning wheel holes diameter to fit the coins
+> Angle of slopes for both the coin holder below the wheel and the one above where the coin rolls down
+> Attachment of sensors and rigidness so when in motion, does not bug out.
+> Diameter of each coin receiver
+> Servo Motor angles
+
+Although it looks abit sluggish, but a lot of time was put into it ;-;
+
+**Software:**
+Me.
 
 ### MAPP Design Contest
 Our team was selected to participate in the MAPP Design contest and we won Merit Prize!
