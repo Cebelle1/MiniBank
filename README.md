@@ -35,7 +35,7 @@ As the prototype is hand-made by us using cardboards, we needed to refine the me
 
 Although it looks abit sluggish, but a lot of time was put into it ;-;
 
-**Software:**
+**Software & Circuit Design:**
 
 Me.
 
